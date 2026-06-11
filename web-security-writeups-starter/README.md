@@ -2,7 +2,7 @@
 
 This repository records my web security learning notes and lab writeups.
 
-The current focus is **PortSwigger Web Security Academy**, especially **Access Control** and **Authentication** labs. Later, this repository will also include notes from **TryHackMe**, **HackTheBox**, **CTFHub**, and other CTF practice platforms.
+The current focus is **PortSwigger Web Security Academy**. Later, this repository will also include notes from **TryHackMe**, **HackTheBox**, **CTFHub**, and other CTF practice platforms.
 
 > All content is for legal security learning, lab practice, and defensive research only.
 
