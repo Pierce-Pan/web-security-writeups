@@ -4,7 +4,7 @@
 
 本仓库用于记录我的 Web 安全学习笔记、靶场练习过程和漏洞分析 writeup。
 
-当前主要内容是 **PortSwigger Web Security Academy**，重点关注 **Access Control（访问控制）** 和 **Authentication（身份认证）** 两个模块。后续会逐步扩展到 **TryHackMe**、**HackTheBox**、**CTFHub** 以及其他 CTF Web 题目。
+当前主要内容是 **PortSwigger Web Security Academy**。后续会逐步扩展到 **TryHackMe**、**HackTheBox**、**CTFHub** 以及其他 CTF Web 题目。
 
 > 本仓库内容仅用于合法安全学习、靶场练习和防御研究。
 
