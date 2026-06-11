@@ -1,6 +1,6 @@
 # Lab: <Lab 名称>
 
-**中文** | [English](./<same-file-name>.en.md)
+**中文** | [English](./writeup-template.en.md)
 
 ## 1. Lab 基本信息
 
